@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0125/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部八
+  hash: sha256:2ca6b36e125227017052aabb38e83ed63103fdf152cf0be95bdfb58f63de9d79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0125_WYG_000-1a, image: WYG1399/WYG1399-0001a.png}
+body:
+  text: 南齊文紀總集類提要臣等謹案南齊文紀十卷明梅鼎祚編是集於酬答之文參錯附録及誤載前代冊誥與諸集略同而體例尤為叢脞如永明五年九月詔乃齊書撮叙其事而以為詔詞髙祖與周盤龍第二敕明帝手詔王思逺皆只常言五字但可存為故實豈宜目以文章無姓名之文例附於末而魚復侯子響還本奏獨列於前代擬諸作例歸操觚之人而褚淵禪齊詔江淹築壘教獨不畫一曹景宗與弟義宗書沈約答陸厥樂藹書猶曰人雖入梁事關齊代至於宋順帝答誅黃回詔則宋文紀自為一集何以隔代䦨入若劉虬答蕭子良書已見二卷又見六卷失檢抑又甚矣其間如髙祖與王延之書尺牘誤以為世祖崔覺與妹書尺牘誤以為崔恭祖亦間有小小駁正然如黃回一人隔數頁而重注曹虎一人前注見北魏而七卷之中乃别出曹虎之名詳注爵里矛盾者正復不少徒以一代之文兼收全備而存之耳乾隆四十四年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:664d8d3c1b17e0bac08f55afc05e665ba135dae8cee3ff298f30f37fd02d7264
+metadata:
+  title: 南齊文紀
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:38:50.710637'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4h0125/KR4h0125_000.txt
+hash: sha256:c6a619482479317c74e66b83a4f0c2d1c1f06a3d0e5c69b76f5b307b2fd88bf5
